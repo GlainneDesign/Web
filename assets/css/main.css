@@ -103,11 +103,26 @@ input, select, textarea {
 	}
 
 	a {
-		text-decoration: underline;
+		text-decoration: none;
+		color: #474f51;
 	}
 
 		a:hover {
 			text-decoration: none;
+			color: #fff;
+		}
+
+		a:visited {		
+			text-decoration: none;
+			color: #474f51;
+		}
+		a:focused {		
+			text-decoration: none;
+			color: #474f51;
+		}
+		a:active {		
+			text-decoration: none;
+			color: #474f51;
 		}
 
 	section > :last-child,
