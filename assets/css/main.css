@@ -1441,12 +1441,12 @@ input, select, textarea {
 			font-size: 0.9em;
 			font-weight: 400;
 		}
-		.quote-list li a {
+		.quote-list li span a {
 		text-decoration: none;
 		color: #474f51;
 	}
 
-		.quote-list li a:hover {
+		.quote-list li span a:hover {
 			text-decoration: none;
 			color: #fff;
 		}
