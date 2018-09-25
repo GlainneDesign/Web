@@ -1448,12 +1448,12 @@ input, select, textarea {
 
 		.quote-list li span a:hover {
 			text-decoration: none;
-			color: #fff;
+			color: #000;
 		}
 
 		.quote-list li a:visited {		
 			text-decoration: none;
-			color: #fff;
+			color: #000;
 		}
 		.quote-list li a:focused {		
 			text-decoration: none;
