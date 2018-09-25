@@ -1441,6 +1441,28 @@ input, select, textarea {
 			font-size: 0.9em;
 			font-weight: 400;
 		}
+		.quote-list li a {
+		text-decoration: none;
+		color: #474f51;
+	}
+
+		.quote-list li a:hover {
+			text-decoration: none;
+			color: #fff;
+		}
+
+		.quote-list li a:visited {		
+			text-decoration: none;
+			color: #fff;
+		}
+		.quote-list li a:focused {		
+			text-decoration: none;
+			color: #474f51;
+		}
+		.quote-list li a:active {		
+			text-decoration: none;
+			color: #474f51;
+		}
 
 	.check-list li {
 		padding: 0.7em 0 0.7em 45px;
