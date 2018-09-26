@@ -8,7 +8,7 @@
 
 @font-face {
     font-family: typewriter;
-    src: url('veteran_typewriter.eot'), url('veteran_typewriter.ttf') format('truetype'), url('veteran_typewriter.svg') format('svg');
+    src: url('./veteran_typewriter.eot'), url('./veteran_typewriter.ttf') format('truetype'), url('./veteran_typewriter.svg') format('svg');
 }
 
 html, body, div, span, applet, object,
