@@ -1,10 +1,15 @@
-@import url("https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,200");
+/*@import url("https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,200");*/
 
 /*
 	Halcyonic by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
+
+@font-face {
+    font-family: typewriter;
+    src: url('veteran_typewriter.eot'), url('veteran_typewriter.ttf') format('truetype'), url('veteran_typewriter.svg') format('svg');
+}
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -104,25 +109,25 @@ input, select, textarea {
 
 	a {
 		text-decoration: none;
-		color: #474f51;
+		color: inherit;
 	}
 
 		a:hover {
 			text-decoration: none;
-			color: #fff;
+			color: inherit;
 		}
 
 		a:visited {		
 			text-decoration: none;
-			color: #474f51;
+			color: inherit;
 		}
 		a:focused {		
 			text-decoration: none;
-			color: #474f51;
+			color: inherit;
 		}
 		a:active {		
 			text-decoration: none;
-			color: #474f51;
+			color: inherit;
 		}
 
 	section > :last-child,
